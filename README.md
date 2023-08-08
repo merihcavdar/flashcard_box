@@ -1,16 +1,11 @@
-# flashcard_box
+# Flashcard Box
 
-A new Flutter project.
+a flashcard app in Flutter for German-English words
 
-## Getting Started
+## screenshot
+![flashcard_box](https://github.com/merihcavdar/flashcard_box/assets/84540989/a549a77c-41fe-4016-81cf-416d07936876)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+- 3rd party package usage calld "flip_card"
+- asset usage
+- transition to/from flashcards to another
